@@ -1,0 +1,1 @@
+const router=require('express').Router(); router.post('/addfunds',(req,res)=>res.send('Add Funds API')); module.exports=router;

@@ -1,0 +1,1 @@
+const router=require('express').Router(); router.get('/all',(req,res)=>res.send('Admin API')); module.exports=router;
