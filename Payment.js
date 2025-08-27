@@ -1,1 +1,0 @@
-const mongoose=require('mongoose'); const PaymentSchema=new mongoose.Schema({userId:String,amount:Number,status:String}); module.exports=mongoose.model('Payment',PaymentSchema);
