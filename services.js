@@ -1,1 +1,0 @@
-const router=require('express').Router(); router.get('/',(req,res)=>res.send('Services API')); module.exports=router;
