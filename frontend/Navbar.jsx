@@ -1,0 +1,1 @@
+export default function Navbar(){ return <nav>SMM Panel Navbar</nav> }
