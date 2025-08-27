@@ -1,0 +1,1 @@
+const router=require('express').Router(); router.post('/place',(req,res)=>res.send('Place Order API')); module.exports=router;
